@@ -35,4 +35,4 @@ docker-compose up --scale idgenerator={number}
 
 
 
-### Note make you config .env file to run
+### Note make sure you config .env file before to running 
