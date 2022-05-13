@@ -4,7 +4,7 @@ This program allows you to generate random id's for multiple instance server wit
 
 ## to run 
 yarn install or npm install
-1652400000
+
 ## to run development mode
 yarn dev or npm run dev
 
@@ -36,5 +36,3 @@ docker-compose up --scale idgenerator={number}
 
 
 ### Note make you config .env file to run
-
- mongodb+srv://vadton:mongodb2022@cluster0.tbbm0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
